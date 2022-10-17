@@ -1,34 +1,34 @@
-name: 人物胸部
+name: character chest
 content:
   chest:
-    name: 胸肌
+    name: pectoral muscles
   breasts:
-    name: 胸部
+    name: chest
   flat chest:
-    name: 贫乳 (A)
+    name: Small Tits (A)
   small breasts:
-    name: 小胸部 (B)
+    name: Small Boobs (B)
   medium breasts:
-    name: 中等胸部 (C)
+    name: Medium Chest (C)
   large breasts:
-    name: 大胸 (D)
+    name: Big Breast (D)
   huge breasts:
-    name: 巨乳 (E)
+    name: Big Tits (E)
   gigantic breasts:
-    name: 魔乳 (F)
+    name: Demon Milk (F)
   bra:
-    name: 胸罩
+    name: bra
   bustier:
-    name: 胸衣
+    name: bustier
   chemise:
-    name: 吊带胸衣
+    name: chemise
   sarashi:
-    name: 缠胸布
+    name: Breast Wrap
   latex:
     alias:
       - pasti
-    name: 乳贴
+    name: nipple stickers
   cleavage:
-    name: 乳沟
+    name: cleavage
   no bra:
-    name: 无胸罩
+    name: no bra
