@@ -1,32 +1,32 @@
-name: 天空
+name: sky
 content:
   cloud:
-    name: 云
+    name: Cloud
   full moon:
-    name: 满月
+    name: Full Moon
   moon:
-    name: 月亮
+    name: Moon
   moonlight:
-    name: 月光
+    name: Moonlight
   night:
-    name: 夜晚
+    name: Night
   night sky:
-    name: 夜空
+    name: night sky
   blue moon:
-    name: 蓝月
+    name: Blue Moon
   sky:
-    name: 天空
+    name: Sky
   starry sky:
     alias:
       - star sky
-    name: 星空
+    name: starry sky
   sun:
-    name: 太阳
+    name: sun
   skyline:
-    name: 天际线
+    name: skyline
   shooting star:
-    name: 流星
+    name: Meteor
   sunburst background:
-    name: 旭日纹背景
+    name: Sunburst Background
   sunset:
-    name: 落日
+    name: sunset
