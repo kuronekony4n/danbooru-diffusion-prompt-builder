@@ -1,20 +1,20 @@
 name: City
 content:
-   skyscrapers:
-     name: skyscraper
-   neon lights:
-     name: Neon lights
-     wikiUrl: https://danbooru.donmai.us/wiki_pages/neon_lights.html
-     image: 47bfa8edabe2af1bf7ed9663b1727af314c49a21b1b87e1a2f3985c273aaa4ea
-   cityscape:
-     name: Cityscape
-   fences:
-     name: fences
-   ruins:
-     name: Ruins
-   church:
-     name: church
-   shop:
-     name: store/shop
-   building:
-     name: building
+  skyscrapers:
+    name: skyscraper
+  neon lights:
+    name: Neon lights
+    wikiUrl: 'https://danbooru.donmai.us/wiki_pages/neon_lights.html'
+    image: 47bfa8edabe2af1bf7ed9663b1727af314c49a21b1b87e1a2f3985c273aaa4ea
+  cityscape:
+    name: Cityscape
+  fences:
+    name: fences
+  ruins:
+    name: Ruins
+  church:
+    name: church
+  shop:
+    name: store/shop
+  building:
+    name: building
