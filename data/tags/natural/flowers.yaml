@@ -1,12 +1,12 @@
-name: 花卉
+name: Flower
 content:
   petals:
-    name: 花瓣
+    name: petals
   flower:
-    name: 花
+    name: flower
   rose petals:
-    name: 玫瑰花瓣
+    name: rose petals
   cherry blossoms:
-    name: 樱花
+    name: Sakura
   flowers meadows:
-    name: 花田
+    name: Flower Field
