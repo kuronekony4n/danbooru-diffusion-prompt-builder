@@ -1,12 +1,12 @@
-name: 人物品控
+name: Quality
 content:
   bad anatomy:
-    name: 身体结构错误
+    name: bad anatomy
   bad hands:
-    name: 手型错误
+    name: bad hands
   fewer digits:
     alias:
       - missing fingers
-    name: 缺少手指
-  extra digit:
-    name: 多余手指
+    name: missing fingers
+  extra digits:
+    name: extra fingers
