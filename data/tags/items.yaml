@@ -1,67 +1,66 @@
-name: 物品
+name: item
 content:
   camera:
-    name: 相机
+    name: camera
   chopsticks:
-    name: 筷子
+    name: chopsticks
   microphone:
-    name: 麦克风
+    name: microphone
   weapons:
-    name: 武器
+    name: weapon
   dagger:
-    name: 匕首/短剑
+    name: Dagger/Short Sword
   sword:
-    name: 刀
+    name: knife
   scythe:
-    name: 镰刀
+    name: Scythe
   whip:
-    name: 鞭
+    name: whip
   riding crop:
-    name: 马鞭
+    name: horse whip
   gun:
-    name: 枪
+    name: gun
   handgun:
-    name: 手枪
+    name: pistol
   wand:
-    name: 魔杖
+    name: wand
   arrow:
-    name: 箭
+    name: Arrow
   umbrella:
-    name: 伞
+    name: umbrella
   gohei:
-    name: 御币
+    name: Royal Coin
   ofuda:
-    name: 札符
+    name: Token
   yin yang:
-    name: 阴阳
+    name: Yin Yang
   lantern/lamp:
-    name: 灯笼
+    name: Lantern
   teacup:
-    name: 茶杯
+    name: teacup
   cigarette:
-    name: 香烟
+    name: cigarette
   cake:
-    name: 蛋糕
+    name: cake
   taiyaki:
-    name: 鲷鱼烧
+    name: Taiyaki
   wine:
-    name: 葡萄酒
+    name: wine
   cream:
-    name: 奶油
+    name: cream
   ice cream:
-    name: 冰激凌
+    name: ice cream
   sake:
-    name: 日本酒
+    name: Japanese sake
   guitar:
-    name: 吉他
+    name: guitar
   piano:
-    name: 钢琴
+    name: piano
   obento:
-    name: 便当
+    name: bento
   chair:
-    name: 椅子
+    name: chair
   mimikaki:
-    name: 掏耳勺
+    name: ear scoop
   crease:
-    name: 起皱
-
+    name: wrinkle
