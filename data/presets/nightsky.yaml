@@ -1,6 +1,6 @@
-name: 夜空组合
+name: Night Sky Mix
 content:
-  樱落月夜:
+  Sakura Falling Moon Night:
     content:
       - cherry blossoms
       - cloud
@@ -18,7 +18,7 @@ content:
       - star sky
       - starry sky
       - sun
-  赛博朋克天台:
+  Cyberpunk Rooftop:
     content:
       - cyberpunk
       - city
@@ -28,7 +28,7 @@ content:
       - neon lights
       - no humans
       - background
-  星月夜:
+  Starry Night:
     content:
       - night
       - night sky
@@ -40,10 +40,10 @@ content:
       - stage
       - star sky
       - starry sky
-  星云天空:
+  Nebula Sky:
     content:
       - vibrant nebula sky
-  赛博朋克背景:
+  Cyberpunk Background:
     content:
       - psychedelic
       - chaos
