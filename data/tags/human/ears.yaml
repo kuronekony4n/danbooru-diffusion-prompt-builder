@@ -1,16 +1,16 @@
-name: 耳朵
+name: Ears
 content:
   animal ears:
-    name: 动物耳朵
+    name: animal ears
   fox ears:
-    name: 狐狸耳朵
+    name: fox ears
   bunny ears:
-    name: 兔耳
+    name: rabbit Ears
   cat ears:
-    name: 猫耳
+    name: cat ears
   dog ears:
-    name: 狗耳
+    name: dog ears
   mouse ears:
-    name: 老鼠耳朵
+    name: mouse Ears
   pointy ears:
-    name: 尖耳
+    name: pointed ears
