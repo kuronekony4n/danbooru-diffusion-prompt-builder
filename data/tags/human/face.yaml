@@ -1,89 +1,88 @@
-name: 人物面部
+name: character face
 content:
   makeup:
-    name: 浓装
+    name: makeup
   food on face:
-    name: 食物在脸上
+    name: food on the face
   aqua eyes:
-    name: 吐舌鬼脸
+    name: aqua eyes
   smelling:
-   name:  闻
+    name: smell
   nosebleed:
-    name: 鼻血
+    name: Nosebleed
   lips:
-    name: 嘴唇
+    name: lips
   clenched teeth:
-    name: 咬牙
+    name: clenched teeth
   open mouth:
-    name: 张口
+    name: open mouth
   pout:
-    name: 努嘴
+    name: pout
   sigh:
-    name: 叹气
+    name: sigh
   smile:
-    name: 微笑
+    name: smile
   light smile:
-    name: 浅笑
+    name: smile
   grin:
-    name: 露齿而笑
+    name: grin
   evil smile:
     alias:
-      - evil grin
-    name: 坏笑
+      - evil smile
+    name: bad smile
   stare:
-    name: 凝视
+    name: stare
   angry:
-    name: 生气的
+    name: angry
   annoyed:
-    name: 苦恼的
+    name: distressed
   crazy:
-    name: 疯狂的
+    name: crazy
   shy:
-    name: 害羞的
+    name: shy
   embarrassed:
-    name: 尴尬的
+    name: embarrassed
   blush:
-    name: 脸红的
+    name: blushing
   sleepy:
-    name: 困乏的
+    name: sleepy
   sad:
-    name: 悲伤的
+    name: sad
   drunk:
-    name: 喝醉的
+    name: drunk
   dark persona:
-    name: 黑化的
+    name: dark persona
   frown:
-    name: 皱眉/蹙额
+    name: frown
   expressionless:
-    name: 无表情的
+    name: expressionless
   ahegao:
-    name: 阿嘿颜
+    name: ahegao
   naughty face:
-    name: 下流的表情
+    name: naughty face
   endured face:
-    name: 忍耐的表情
+    name: endured face
   fangs:
-    name: 尖牙
+    name: Fang
   tongue:
-    name: 舌头
+    name: tongue
   no nose:
-    name: 没有鼻子
+    name: no nose
   saliva:
-    name: 唾液
+    name: saliva
   facial hair:
-    name: 胡子
+    name: beard
   hair over one eye:
-    name: 头发遮住一边眼
+    name: hair covering one eye
   fingersmile:
-    name: 用手指做出笑脸
+    name: make a smiley face with fingers
   mouth hold:
-    name: 嘴咬住
+    name: mouth hold
   parted lips:
-    name: 嘴唇微张
+    name: lips slightly parted
   closed mouth:
-    name: 闭嘴
+    name: closed mouth
   tongue out:
-    name: 吐舌头
+    name: tongue out
   licking lips:
-    name: 舔嘴唇
-
+    name: licking lips
