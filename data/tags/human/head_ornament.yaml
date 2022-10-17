@@ -1,78 +1,78 @@
-name: 人物头部饰品
+name: Head Ornament
 content:
   halo:
-    name: 头顶光环
+    name: Halo
   tokin hat:
-    name: 东金帽子
+    name: Tokin Hat
   mini top hat:
-    name: 迷你礼帽
+    name: Mini Top Hat
   beret:
-    name: 贝雷帽
+    name: beret
   hood:
-    name: 兜帽
+    name: Hood
   nurse cap:
-    name: 护士帽
+    name: Nurse cap
   tiara:
-    name: 三重冕
+    name: tiara
   crown:
-    name: 皇冠
+    name: Crown
   hairpin:
-    name: 发卡
+    name: hairpin
   hairband:
-    name: 头箍
+    name: hairband
   hairclip:
-    name: 发夹
+    name: hairclip
   hair ribbon:
-    name: 发带
+    name: hair ribbon
   hair flower:
-    name: 发花
+    name: flower
   hair ornament:
-    name: 头饰
+    name: headgear
   bowtie:
-    name: 蝴蝶结
+    name: bowtie
   hair bow:
-    name: 蝴蝶结发饰
+    name: hair bow
   maid headdress:
-    name: 女仆头饰
+    name: maid headdress
   bow:
-    name: 服装饰品/头部饰品
+    name: bow
   lace:
-    name: 花边
+    name: lace
   ribbon:
-    name: 丝带
+    name: ribbon
   bandage:
-    name: 绷带
+    name: Bandage
   glasses:
-    name: 眼镜
+    name: glasses
   sunglasses:
-    name: 太阳镜
+    name: sunglasses
   goggles:
-    name: 风镜
+    name: goggles
   blindfold:
-    name: 眼罩
+    name: eye mask
   eyepatch:
-    name: 单眼罩
+    name: single eye mask
   mask:
-    name: 面具/眼罩/口罩
+    name: mask/mask
   earrings:
-    name: 耳环
+    name: earrings
   jewelry:
-    name: 首饰
+    name: jewelry
   collar:
-    name: 项圈
+    name: collar
   bell:
-    name: 铃铛
+    name: bell
   choker:
-    name: 颈部饰品
+    name: choker
   sailor collar:
-    name: 水手领
+    name: Sailor's Collar
   ribbon choker:
-    name: 颈带
+    name: neckband
   necklace:
-    name: 项链
+    name: necklace
   scarf:
-    name: 围巾
+    name: scarf
   facepaint:
-    name: 面纹
+    name: face pattern
   horns:
-    name: 兽角
+    name: Horn
