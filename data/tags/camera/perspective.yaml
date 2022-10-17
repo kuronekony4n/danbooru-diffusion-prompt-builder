@@ -1,38 +1,38 @@
-name: 视角
+name: perspective
 content:
   from behind:
-    name: 从背面
+    name: from the back
   from below:
-    name: 从下方
+    name: from below
   from above:
-    name: 从上方
+    name: from above
   from side:
-    name: 从侧面
+    name: from the side
   solo focus:
-    name: 单人焦点
+    name: Single Focus
   back focus:
-    name: 背景焦点
+    name: background focus
   ass focus:
     alias:
       - hip focus
-    name: 臀部焦点
+    name: hip focus
   foot focus:
-    name: 足部焦点
+    name: Foot Focus
   first-person view:
-    name: 第一人称视角
+    name: first-person perspective
   pov:
-    name: 主观视角
+    name: subjective perspective
   three sided view:
-    name: 三视图
+    name: Three Views
   multiple views:
-    name: 多视图
+    name: multiview
   cowboy shot:
-    name: 骑马镜头
+    name: Riding Shots
   portrait:
-    name: 肖像
+    name: portrait
   close-up:
-    name: 近景
+    name: close-up
   cut-in:
-    name: 插入画面
-  dutch angle:
-    name: 倾斜镜头
+    name: insert screen
+  Dutch angle:
+    name: tilt lens
