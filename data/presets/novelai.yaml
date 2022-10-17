@@ -1,12 +1,12 @@
 name: NovelAI
 content:
   Quality Tags:
-    description: 由 NovelAI 添加的提升画质的正向标签
+    description: A positive label added by NovelAI to improve image quality
     content:
       - masterpiece
       - best quality
   Low Quality + Bad Anatomy:
-    description: 由 NovelAI 添加的抑制低质量图片与人体错误的反向标签
+    description: Added by NovelAI to suppress low-quality images and human error inverse labels
     content:
       - lowres
       - bad anatomy
@@ -26,7 +26,7 @@ content:
       - username
       - blurry
   Low Quality:
-    description: 由 NovelAI 添加的抑制低质量图片的反向标签
+    description: Inverse labels added by NovelAI to suppress low quality images
     content:
       - lowres
       - text
@@ -40,7 +40,7 @@ content:
       - username
       - blurry
   Low Quality (Furry):
-    description: 由 NovelAI 添加的抑制低质量 Furry 图片的反向标签
+    description: Reverse tags added by NovelAI to suppress low quality Furry images
     content:
       - text
       - signature
