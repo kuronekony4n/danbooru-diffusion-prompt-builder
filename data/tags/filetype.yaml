@@ -1,52 +1,52 @@
 content:
   absurdres:
-    name: 超高分辨率
+    name: super high resolution
   back:
-    name: 背影像
+    name: back image
   bust:
-    name: 半身像
-  checkered:
-    name: 格子的
+    name: bust
+  checked:
+    name: lattice
   column lineup:
-    name: 小图拼接
+    name: Thumbnail stitching
   everyone:
-    name: 所有人
+    name: everyone
   expressions:
-    name: 表情绘
+    name: Emoji
   highres:
-    name: 高分辨率
+    name: high resolution
   huge filesize:
-    name: 大文件体积
+    name: large file size
   incredibly absurdres:
-    name: 极高分辨率
+    name: very high resolution
   lowres:
     alias:
       - low res
-    name: 低分辨率
+    name: low resolution
   original:
-    name: 原创
+    name: original
   parody:
-    name: 拙劣模仿
+    name: Parody
   sample:
-    name: 样图标记
+    name: mockup tag
   wallpaper:
-    name: 壁纸
+    name: wallpaper
   masterpiece:
-    name: 杰作
+    name: masterpiece
   best quality:
-    name: 顶级质量
+    name: top quality
   worst quality:
-    name: 糟糕质量
+    name: bad quality
   low quality:
-    name: 低质量
+    name: low quality
   normal quality:
-    name: 一般质量
+    name: general quality
   cropped:
-    name: 遭到裁剪
+    name: clipped
   error:
-    name: 有错误
+    name: there is an error
   extremely detailed cg unity 8k wallpaper:
-    name: 极高分辨率 CG 壁纸
+    name: very high resolution CG wallpaper
   photorealistic:
-    name: 照片级
-name: 图片类型
+    name: Photo Grade
+name: image type
