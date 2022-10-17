@@ -1,48 +1,48 @@
-name: 人物上半身
+name: Upper Body
 content:
   armpit:
-    name: 腋
+    name: armpit
   collarbone:
-    name: 锁骨
+    name: collarbone
   wings:
-    name: 翅膀/翼
+    name: wings
   bat wings:
-    name: 蝙蝠翅膀
+    name: Bat Wings
   butterfly wings:
-    name: 蝴蝶翅膀
+    name: Butterfly Wings
   black wings:
-    name: 黑色之翼
+    name: black wings
   demon wings:
-    name: 恶魔之翼
+    name: Demon Wings
   muscle:
-    name: 肌肉
+    name: muscle
   cape:
-    name: 披肩/斗篷/披风
+    name: cape/cloak/cloak
   camisole:
-    name: 吊带背心
+    name: Camisole
   detached sleeves:
-    name: 袖肩分离装
+    name: detached sleeves
   hoodie:
-    name: 卫衣
+    name: Sweater
   long sleeves:
-    name: 长袖
+    name: long sleeve
   robe:
-    name: 长袍
+    name: Robe
   tank top:
-    name: 女用背心
+    name: tank top
   off shoulder:
-    name: 露单肩
+    name: bare shoulder
   bare shoulders:
-    name: 露双肩
+    name: bare shoulders
   topless:
-    name: 上着较少
+    name: topless
   open clothes:
-    name: 敞开衣服
+    name: open clothes
   open robe:
-    name: 敞开长袍
+    name: Open Robe
   naked cape:
     restricted: true
-    name: 裸体披风
+    name: Nude Cloak
   naked shirt:
     restricted: true
-    name: 裸体衬衫
+    name: nude shirt
