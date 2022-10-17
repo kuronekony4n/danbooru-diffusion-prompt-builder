@@ -1,56 +1,56 @@
-name: 人物摆位
+name: Direction
 content:
   facing away:
-    name: 背对
+    name: facing away
   profile:
-    name: 侧脸
+    name: profile
   straight-on:
-    name: 正脸
+    name: front face
   full body:
-    name: 全身
+    name: full body
   out of frame:
-    name: 脱框
+    name: out of frame
   head out of frame:
-    name: 头部脱框
+    name: head out of frame
   feet out of frame:
-    name: 脚部脱框
+    name: Foot Unframed
   upper body:
-    name: 上半身
+    name: upper body
   lower body:
-    name: 下半身
+    name: lower body
   cropped torso upper body:
-    name: 裁剪上半身
+    name: Cropped Torso Upper Body
   cropped shoulders:
-    name: 裁剪肩膀
+    name: cropped shoulders
   cropped arms:
-    name: 裁剪手臂
+    name: Crop Arm
   cropped legs:
-    name: 裁剪腿部
+    name: Cropped Legs
   selfiemirror:
-    name: 自拍镜
+    name: Selfie Mirror
   symmetrical:
-    name: 对称
+    name: symmetrical
   looking at viewer:
-    name: 盯着观众
+    name: looking at viewer
   facing viewer:
-    name: 面对观众
+    name: facing viewer
   looking at another:
-    name: 盯着另一人
+    name: looking at another
   looking to the side:
-    name: 侧视
+    name: looking to the side
   looking away:
-    name: 不看镜头
+    name: don't look at the camera
   looking back:
-    name: 回头看
+    name: looking back
   looking down:
-    name: 向下看
+    name: look down
   looking up:
-    name: 向上看
-  looking afar:
-    name: 远眺
+    name: look up
+  looking far:
+    name: distant view
   staring:
-    name: 盯着看
+    name: staring
   eye contact:
-    name: 对视
+    name: eye contact
   sideways glance:
-    name: 斜视
+    name: glance
