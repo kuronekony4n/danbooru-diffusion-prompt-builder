@@ -1,10 +1,10 @@
-name: 图片杂件
+name: Picture Miscellaneous
 content:
   text:
-    name: 含文字
+    name: contains text
   signature:
-    name: 含签名
+    name: with signature
   watermark:
-    name: 含水印
+    name: watermark
   username:
-    name: 含用户名
+    name: contains username
