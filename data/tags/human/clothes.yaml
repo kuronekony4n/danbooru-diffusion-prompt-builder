@@ -1,92 +1,92 @@
 content:
   babydoll:
-    name: 透明睡衣
+    name: babydoll
   bikini:
-    name: 比基尼
+    name: bikini
   bodystocking:
-    name: 连紧衣
+    name: bodystocking
   japanese clothes:
-    name: 和服
+    name: japanese clothes
   bodysuit:
-    name: 紧身衣
+    name: bodysuit
   business suit:
-    name: 职场制服
+    name: business suit
   cat cutout:
-    name: 猫咪内衣
+    name: cat cutout
   chinadress:
-    name: 旗袍
+    name: china dress
   chinese clothes:
-    name: 唐装
+    name: chinese clothes
   corset:
-    name: 紧身褡
+    name: corset
   dress:
-    name: 连衣裙
+    name: dress
   formal:
-    name: 晚礼服
+    name: formal dress
   gym uniform:
-    name: 运动服
+    name: sportswear
   leotard:
-    name: 體操服
+    name: leotard
   lingerie:
-    name: 女用贴身内衣裤
+    name: lingerie
   obi:
-    name: 衣带(和服用)
+    name: belt (obi)
   pajamas:
-    name: 睡衣
+    name: pajamas
   santa:
-    name: 圣诞装
+    name: Christmas outfit
   school swimsuit:
-    name: 学校泳衣
+    name: school swimsuit
   school uniform:
-    name: 学校制服
+    name: school uniform
   see-through:
-    name: 透明装
+    name: see-through
   side-tie bikini:
-    name: 系带式比基尼
+    name: side-tie bikini
   suit:
-    name: 西装
+    name: suit
   swimsuit:
-    name: 泳装
+    name: swimsuit
   torn clothes:
-    name: 破烂衣服
+    name: tattered clothes
   underwear:
-    name: 内衣
+    name: underwear
   uniform:
-    name: 制服
+    name: uniform
   yukata:
-    name: 浴衣
+    name: Yukata
   serafuku:
-    name: 水手服
+    name: Sailor Suit
   wedding dress:
-    name: 婚纱
+    name: wedding dress
   gothic:
-    name: 哥特风格
+    name: gothic
   lolita fashion:
-    name: 洛丽塔风格
+    name: Lolita style
   gothic lolita:
-    name: 哥特洛丽塔风格
+    name: Gothic Lolita
   western:
-    name: 西部风格
+    name: western style
   nude:
     alias:
       - naked
-    name: 裸体的
+    name: nude
     restricted: true
   naked apron:
-    name: 裸体围裙
+    name: Nude Apron
     restricted: true
   naked overalls:
-    name: 裸体工作服
+    name: nude overalls
     restricted: true
   naked ribbon:
-    name: 裸体丝带
+    name: Nude Ribbon
     restricted: true
   tartan:
-    name: 格子花纹
+    name: Plaid
   striped:
-    name: 横条花纹
+    name: Stripes
   polka dot:
-    name: 点状花纹
+    name: Dotted pattern
   frills:
-    name: 皱边
-name: 人物全身服饰
+    name: frill
+name: Clothes
