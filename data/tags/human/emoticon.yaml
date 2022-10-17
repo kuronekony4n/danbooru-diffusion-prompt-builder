@@ -1,18 +1,18 @@
-name: 颜文字
+name: Kaomoji (Emoticon)
 content:
-  ">:(":
-    name: 愤怒
-  ">:)":
-    name: 嘲笑
-  ":o":
-    name: 惊讶
-  ":q":
-    name: 右上吐舌头
-  ":p":
-    name: 右下吐舌头
-  ":d":
-    name: 咧嘴笑
-  ";d":
-    name: 单眼咧嘴笑
-  ":3":
-    name: 猫嘴
+   ">:(":
+     name: anger
+   ">:)":
+     name: mock
+   ":o":
+     name: surprised
+   ":q":
+     name: tongue sticking out
+   ":p":
+     name: lower right tongue sticking out
+   ":d":
+     name: grin
+   ";d":
+     name: one-eyed grin
+   ":3":
+     name: cat mouth
