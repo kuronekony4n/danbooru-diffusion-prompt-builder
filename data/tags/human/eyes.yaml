@@ -1,100 +1,99 @@
 content:
   black eyes:
-    name: 黑眼
+    name: black eye
   blue eyes:
-    name: 蓝眼
+    name: blue eye
   brown eyes:
-    name: 棕眼
+    name: brown eye
   green eyes:
-    name: 绿眼
+    name: green eye
   grey eyes:
-    name: 灰眼
+    name: grey eye
   heart-shaped pupils:
-    name: 爱心形瞳孔
+    name: Heart-shaped pupil
   heterochromia:
-    name: 异色瞳
+    name: Heterochromatic Eyes
   purple eyes:
-    name: 紫眼
+    name: Purple Eye
   red eyes:
-    name: 红眼
+    name: red eye
   rolleyes:
-    name: 眼球上翻
+    name: rolleyes
   silver eyes:
-    name: 银眼
+    name: Silver Eye
   slit pupils:
-    name: 竖瞳孔/猫眼
+    name: slit pupils/cat's eye
   white eyes:
-    name: 白眼
+    name: white eyes
   yellow eyes:
-    name: 金眼
+    name: golden eye
   tareme:
-    name: 下垂的眼睛
+    name: drooping eyes
   sanpaku:
-    name: 三白眼
+    name: sanpaku
   upturned eyes:
-    name: 上翘的眼睛
+    name: Upturned Eyes
   wide-eyed:
-    name: 睁开眼睛
+    name: open eyes
   ringed eyes:
-    name: 眼圈
+    name: eye circle
   rolling eyes:
-    name: 眼睛抬头
+    name: rolling eyes
   crazy eyes:
-    name: 疯狂的眼睛
+    name: crazy eyes
   raised eyebrows:
-    name: 挑眉
+    name: Raise eyebrows
   furrowed brow:
-    name: 下眉毛
+    name: lower eyebrow
   dashed eyes:
-    name: 黑眼圈中的水平线
+    name: dashed eyes
   multicolored eyes:
-    name: 多色的黑眼睛
+    name: multicolored eyes
   mismatched pupils:
-    name: 左右眼颜色不同
+    name: mismatched pupils
   mismatched sclera:
-    name: 左右眼不同颜色的眼白
+    name: mismatched sclera
   no pupils:
-    name: 没有眼睛
+    name: no pupils
   empty eyes:
-    name: 眼睛没有亮点
+    name: empty eyes
   blank eyes:
-    name: 白眼球
+    name: blank eyes
   dilated pupils:
-    name: 瞳孔扩张
+    name: dilated pupils
   hollow eyes:
-    name: 漆黑的眼睛
-  constricted pupils:
-    name: 瞳孔收缩
+    name: dark eyes
+  restricted pupils:
+    name: pupil constriction
   symbol-shaped pupils:
-    name: 符号眼
+    name: Symbol Eye
   star-shaped pupils:
-    name: 星形眼睛
+    name: star eye
   x-shaped pupils:
-    name: X 形眼睛
+    name: X-shaped eyes
   button eyes:
-    name: 纽扣眼
+    name: buttonhole
   eye reflection:
-    name: 眼睛反射
+    name: eye reflex
   closed eyes:
-    name: 闭上眼睛
+    name: close your eyes
   one eye closed:
-    name: 一只眼睛闭着
+    name: one eye closed
   half-closed eyes:
-    name: 眼睛半闭
+    name: eyes half closed
   eyes closed:
-    name: 闭眼
+    name: eyes closed
   wink:
-    alias:
-      - blinking
-    name: 眨眼
+    alias: '-blinking'
+    name: wink
   wince:
-    name: 闭一只眼
+    name: close one eye
   eyelid pull:
-    name: 拉眼皮
+    name: Eyelid Pull
   tsurime:
-    name: 吊眼角
+    name: Hanging Eyes
   eyeball:
-    name: 盯着看
+    name: stare
   tears:
-    name: 眼泪
-name: 人物眼睛
+    name: tears
+name: Eyes
