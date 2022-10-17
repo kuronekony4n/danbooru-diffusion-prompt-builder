@@ -1,77 +1,75 @@
-# Danbooru 标签超市
+# Danbooru Prompt Builder
 
-正式版: https://tags.novelai.dev
+Official version: https://tags.novelai.dev
 
-测试版: https://tags-dev.novelai.dev
+Beta: https://tags-dev.novelai.dev
 
-## 开发与改进
+## Development and Improvement
 
-### 修改标签或预设
+### Edit tags or presets
 
-请编辑 `data/tags/*.yaml` 与 `data/presets/*.yaml` 文件。
+please edit `data/tags/*.yaml` and `data/presets/*.yaml` file.
 
-#### 拓广
+#### Expand
 
-添加标签的最低标准是拥有标签的英文名与中文名。
+The minimum standard for adding tags is to have the English and Chinese names of the tags.
 
-对于标签名，请将下划线替换为空格。请注意不要与其他标签重复。使用 `npm run dupcheck` 或 `yarn dupcheck` 检查是否存在重复问题。
+For label names, replace underscores with spaces. Be careful not to repeat with other tags. Use `npm run dupcheck` or `yarn dupcheck` to check for duplicates.
 
-#### 精修
+#### Refine
 
-一个优质标签应当拥有配图、说明、别名与 Danbooru Wiki 链接。
+A good tag should have an image, description, alias and a link to the Danbooru Wiki.
 
-图片大小应当尽量符合 512px * 512px 以获得最佳显示效果。
-请通过 `npm run importimage <path>` 或 `yarn importimage <path>` 将图片添加到公共目录。
-这将会自动裁剪图片并进行适当的压缩。
+The image size should be as close as possible to 512px * 512px for the best display effect.
+Please add images to the public directory via `npm run importimage <path>` or `yarn importimage <path>`.
+This will automatically crop the image and compress it appropriately.
 
-请不要添加儿童色情相关、或违反 GitHub 使用协议的图片到项目中。
+Please do not add images to the project that are related to child pornography, or that violate the GitHub Terms of Use.
 
-### 上传精修模型 (TI Embeddings)
+### Upload Refinement Model (TI Embeddings)
 
-精修模型只支持最新版图片格式（`Save images with embedding in PNG chunks`）。
-为安全起见，暂不接受 `.pt` 模型文件。
+The refined model only supports the latest image format（`Save images with embedding in PNG chunks`）。
+For security reasons, `.pt` model files are not accepted.
 
-`.pt` 格式的模型文件请通过 [这个 Colab 笔记本](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb) 进行格式转换。
+`.pt` The model file in the format is available through [this Colab Notebook](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb) and do format conversion。
 
-请通过 `npm run importembedding <path>` 或 `yarn importembedding <path>`
-将模型图片添加到公共目录。然后，在 `data/embeddings/**/*.yaml` 创建描述文件。
+Add model images to the public directory. Then, create description files in `data/embeddings/**/*.yaml`.
 
 ```yaml
-# 调用该模型使用的命令 (模型图片左上角尖括号内容)
+# The command used to call the model (the content of the angle brackets in the upper left corner of the model image)
 prompt: victorian-lace
-# 模型名称
+# Model name
 name: Victorian Lace
-# 模型作者
+# Model author
 author: Reddit user u/depfakacc
-# 模型描述
+# Model description
 description: "A lace pattern that looks like it was made in the Victorian era."
-# 模型分类
-category: 未分类
-# 该模型对应的主模型名称
+# Model classification
+category: uncategorized
+# The name of the main model corresponding to this model
 modelName: model-aa-waifu
-# 该模型对应的主模型 Hash （显示在 WebUI 下拉框中的 Hash）
+# The main model Hash corresponding to this model (the Hash displayed in the WebUI drop-down box)
 modelHash: 2037c511
-# 模型图片右下角 v 字符旁的数字
+# The number next to the v character in the lower right corner of the model image
 vectorSize: 10
-# 模型图片右下角 s 字符旁的数字
+# The number next to the s character in the lower right corner of the model image
 steps: 675
-# 模型文件名，不包含后缀
+# Model filename, without suffix
 filename: victorian-lace
-# 模型文件的 SHA256 Hash
+# Model file SHA256 Hash
 payloadHash: df0641662fb2fc8190a4508c34926243843484495e6d9b0e500f8a8e409aa84e
 ```
 
-### 开发环境
+### Development Environment
 
-> 由于使用了部分 Pro 图标，构建该项目将需要 [Font Awesome v6 Pro 授权](https://fontawesome.com/plans)，
-> 并连接到 Font Awesome 私有 NPM 服务器。在开发过程中您可以暂时替换为 Free 图标。
+> Due to the use of some Pro icons, building this project will require [Font Awesome v6 Pro Authorize](https://fontawesome.com/plans)，
+> And connect to the Font Awesome private NPM server. You can temporarily replace with the Free icon during development.
 
 ```bash
-# 安装依赖
+# Install dependencies
 yarn
-# 启动开发服务器
+# Start the development server
 yarn dev 
-# 构建项目
+# Build the project
 yarn build 
 ```
-
